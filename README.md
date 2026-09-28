@@ -63,6 +63,3 @@ Software Engineer who has taken a stronger interest in building things these day
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=malsekri&bg_color=00000000&color=747e8b&line=747e8b&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/malsekri">malsekri</a></i></p>
