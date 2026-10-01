@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=360&height=44&lines=Improving%20day%20by%20day!" alt="Typing headlines" />
 </p>
 
-###  About Me
+### About Me
 
 Software Engineer who has taken a stronger interest in building things these days :)
 
 🔭 &nbsp;I'm currently working on **a Work Matching App**
 
-###  Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -44,22 +44,15 @@ Software Engineer who has taken a stronger interest in building things these day
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
-###  Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-alsekri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohamed.alsekri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-###  GitHub Stats
+### Most Used Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=malsekri&show_icons=true&theme=tokyonight&title_color=747e8b&icon_color=747e8b&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=malsekri&layout=compact&theme=tokyonight&title_color=747e8b&icon_color=747e8b&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-###  Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=malsekri&bg_color=00000000&color=747e8b&line=747e8b&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=malsekri&layout=compact&theme=tokyonight&title_color=747e8b&icon_color=747e8b&hide_border=true&bg_color=00000000&langs_count=8&count_private=true&cache_seconds=1800" alt="top langs" />
 </p>
